@@ -1,5 +1,9 @@
 <?php 
 require_once('database.php');
 require_once('listview.php');
-echo "Válassz kategóriát!";
+if(isset($_GET['c'])){
+    $array=getJoke($_GET['c']);
+    generateListView($array);
+    }
+else echo "Válassz kategóriát!";
 ?>
