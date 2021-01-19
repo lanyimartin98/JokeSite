@@ -10,7 +10,7 @@ require_once('database.php');
 	<title> Rettenetesen Fárasztó Tréfák</title>
 	<meta name="description" content="Rettenetesen Fárasztó Tréfák">
 	
-	<link rel="stylesheet" href="./assets/rftstyle.css" type="text/css">
+	<link rel="stylesheet" href="./assets/rftstyles.css" type="text/css">
 	
 <head>
 <body>
