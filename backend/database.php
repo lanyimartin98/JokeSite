@@ -19,4 +19,16 @@ function getJoke($category){
     return $array;
     
 }
+function getRandomJoke(){
+  $conn=connect();
+  $sql = "SELECT count(*) FROM `jokes`"; 
+  $result = $conn->prepare($sql); 
+  $result->execute(); 
+  $number_of_rows = $result->fetchColumn(); 
+  $random_num=rand(1,$number_of_rows);
+  $stmt = $conn->prepare("SELECT full FROM jokes where id=?");
+    $stmt->execute([$random_num]); 
+    $array = $stmt->fetch(PDO::FETCH_ASSOC);
+    echo $array['full'];
+}
 ?>

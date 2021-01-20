@@ -4,3 +4,26 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100%;
+}
+.jokebody{
+  background-color: #e3b23c;
+  width: 60vw;
+  border-radius:10px;
+  margin: 10px 10px 10px 10px;
+  border: 2px solid #a39594;
+  padding: 10px 10px 10px 10px;
+}
+.random{
+  text-align: center;
+  width: 10vw;
+  border-radius:10px;
+  margin: 10px 10px 10px 10px;
+  border: 2px solid #a39594;
+  padding: 10px 10px 10px 10px;
+  background-color: #e3b23c;
+}

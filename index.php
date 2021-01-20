@@ -11,7 +11,7 @@ require_once('./backend/config.php');
 	<title> Rettenetesen Fárasztó Tréfák</title>
 	<meta name="description" content="Rettenetesen Fárasztó Tréfák">
 	
-	<link rel="stylesheet" href='/assets/rftstyles.css' type="text/css">
+	<link rel="stylesheet" href='./assets/rftstyles.css' type="text/css">
 	
 <head>
 <body>
@@ -31,13 +31,21 @@ require_once('./backend/config.php');
 	
 	<hr>
 	<div class="container">
-	<div class="random">test</div>
+	<div class="random">
+	<?php
+	getRandomJoke()
+	?>
+	</div>
 	<div>
 		<?php
 			require_once('./backend/routing.php');
 			?>
 	</div>
-	<div class="random">test</div>
+	<div class="random">
+	<?php
+	getRandomJoke()
+	?>
+	</div>
 	</div>
 </body>
 
