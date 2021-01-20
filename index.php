@@ -21,11 +21,11 @@ require_once('./backend/config.php');
 	
 	<div class="container">
 		<div class="button-wrapper">
-			<a class="button button1" href="/jokesite/?c=2">Iskola</a>
-			<a class="button button2" href="/jokesite/?c=1">Rendőr</a>
-			<a class="button button3" href="/jokesite/?c=3">Sport</a>
-			<a class="button button4" href="/jokesite/?c=4">Állatos</a>
-			<a class="button button5" href="/jokesite/?c=5">Orvos</a>
+			<a class="button button1" href="/jokessite/JokeSite/?c=2">Iskola</a>
+			<a class="button button2" href="/jokessite/JokeSite/?c=1">Rendőr</a>
+			<a class="button button3" href="/jokessite/JokeSite/?c=3">Sport</a>
+			<a class="button button4" href="/jokessite/JokeSite/?c=4">Állatos</a>
+			<a class="button button5" href="/jokessite/JokeSite/?c=5">Orvos</a>
 		</div>
 	</div>
 	
