@@ -1,6 +1,7 @@
 <!doctype html>
 <?php
-require_once('database.php');
+require_once('./backend/database.php');
+require_once('./backend/config.php');
 ?>
 <html lang="hu">
 
@@ -10,7 +11,7 @@ require_once('database.php');
 	<title> Rettenetesen Fárasztó Tréfák</title>
 	<meta name="description" content="Rettenetesen Fárasztó Tréfák">
 	
-	<link rel="stylesheet" href="./assets/rftstyles.css" type="text/css">
+	<link rel="stylesheet" href='/assets/rftstyles.css' type="text/css">
 	
 <head>
 <body>
@@ -33,7 +34,7 @@ require_once('database.php');
 	<div class="random">test</div>
 	<div>
 		<?php
-			require_once('routing.php');
+			require_once('./backend/routing.php');
 			?>
 	</div>
 	<div class="random">test</div>
