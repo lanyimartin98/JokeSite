@@ -3,7 +3,11 @@
 ## **Jelenlegi helyzet**
 
 
+
 ## **A rendszer célja és nem céljai**
+Célunk egy régi 2000-es évek eleji viccportálok hangulatát idéző weboldal létrehozása, mely a jelenleg nagyban elterjedt mém alapú szórakoztatás helyett a tradícionális értelemben vett "favicceket" helyezi előtérbe, ezzel kedvezve az idősebb generációnak illetve, az erre fogékony fiataloknak.
+
+Nem célunk vetélytársat állítani a ma eltejedt közösségi oldalakon terjedő viccoldalaknak és csoportoknak.
 
 
 ## **A rendszerre vonatkozó külső megszorítások**

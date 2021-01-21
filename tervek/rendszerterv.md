@@ -36,7 +36,7 @@ Admin: Webhely karbantarásáért felel, esetleges frissítések telepítése.
 
 ## **Fizikai környezet**
 
-A mi elképzelésünk az, hogy html, php, css és Java script nyelven fogunk fejleszteni és mivel mi webszerverre fejlesztünk, ezért az adatbázisunk egy localhost szerveren fog futni, amiről tudunk adatokat lekérdezni, illetve feltölteni. Mivel ez egy weblap felületen fog működni, ezért mint windowson mint linux rendszeren elérhető lesz ez a weboldal. Hálózatot tekintve LAN hálózatot fejlesztünk de később célunk kiterjeszteni az egész weboldalt egy WAN méretűre. 
+A weboldal egy feltehetőleg Linux szerveren lesz elhelyezve, ezen a szerveren készül majd el az adatbázis is, mivel webes alkalmazás így a megfelelő host konfiguráció után az egész világ számára platfomrfüggetlenül elérhető, de a célközönségből kiindulva a desktop-first elvek alapján készül a dizájn és elsősorban asztali számítógépekre optimalizálunk.
 
 
 Részei | Leírás
