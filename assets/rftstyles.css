@@ -10,6 +10,22 @@ body {
   align-items: flex-start;
   height: 100%;
 }
+h1{
+	font-family: Cambria Math;
+	font-size: 45px;
+	text-align: center;	
+	text-shadow: 4px 4px 8px white, 5px 5px 25px DarkGoldenRod, 0 0 10px white;
+	
+}
+p {
+	font-family: Cambria Math;
+	text-align: center;
+	color: #a39594;
+	font-size: 30px;
+	font-weight: bold;
+	
+}
+
 .jokebody{
   background-color: #e3b23c;
   width: 60vw;
