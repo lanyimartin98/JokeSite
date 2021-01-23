@@ -1,4 +1,4 @@
-# CinemaSystem Funkcionális specifikáció
+# JokeSite Funkcionális specifikáció
 
 ## **Jelenlegi helyzet**
 
