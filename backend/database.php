@@ -31,4 +31,25 @@ function getRandomJoke(){
     $array = $stmt->fetch(PDO::FETCH_ASSOC);
     echo $array['full'];
 }
+function register($username, $password){
+  $conn=connect();
+  $stmt = $conn->prepare("INSERT INTO users(username, password) VALUES(?,?)");
+  $stmt->execute([$username,sha1($password)]);         
+}
+function login($username, $password){
+  $conn=connect();
+  $sql = "SELECT count(*) as login, isModerator FROM `users` WHERE username = ? AND password=?"; 
+  $stmt = $conn->prepare($sql); 
+  $stmt->execute([$username,sha1($password)]); 
+  $array = $stmt->fetch(PDO::FETCH_ASSOC);
+  if($array['login']==1&&$array['isModerator']==1){
+      return 'moderator';
+  }
+  elseif($array['login']==1){
+      return 'user';
+  }
+  else{
+    return 'notregistered';
+  }
+}
 ?>

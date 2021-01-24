@@ -1,14 +1,13 @@
 <?php
-		require_once('config.php');
-        require_once('database.php');
+        require_once(ROOT_DIR.'/backend/database.php');
             
             if (isset($_POST['reg']) && !empty($_POST['username']) 
                && !empty($_POST['password_1']) && !empty($_POST['password_2']) && $_POST['password_1']==$_POST['password_2']) {
 				try{
 					register($_POST['username'],$_POST['password_1']);
-					header('Location: /CarDB/?r=login');
+					header('Location: /jokessite/JokeSite/?route=login');
 				}catch(Exception $e){
-					echo "Hiba történt a regisztréciókor!";
+					echo "Hiba történt a regisztrciókor!";
 				}
                }
             
@@ -32,7 +31,7 @@
 	</tr>
 	</table>
   	<p>
-  	<a href="/CarDB/?r=login">Bejelentkezés</a>
+  	<a href="/jokessite/JokeSite/?route=login">Bejelentkezés</a>
 	  </p>
 	  
   </form>
