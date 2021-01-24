@@ -39,6 +39,67 @@ p {
   font-weight: bold;
 }
 
+.button1 {
+	background-color: #e3b23c; 
+  color: #2c2a25; 
+  border: 2px solid #a39594;
+	
+	
+}
+
+.button1:hover {
+  background-color: #d69f1f;
+  color: white;
+}
+
+.button2 {
+	background-color: #e8bf5e; 
+  color: #2c2a25; 
+  border: 2px solid #a39594;
+	  
+}
+
+.button2:hover {
+  background-color: #d69f1f;
+  color: white;
+}
+
+.button3 {
+	background-color: #edcd82; 
+  color: #2c2a25; 
+  border: 2px solid #a39594;
+	 
+}
+
+.button3:hover {
+  background-color: #d69f1f;
+  color: white;
+}
+
+.button4 {
+	background-color: #e8bf5e; 
+  color: #2c2a25; 
+  border: 2px solid #a39594;
+	 
+}
+
+.button4:hover {
+  background-color: #d69f1f;
+  color: white;
+}
+
+.button5 {
+	background-color: #e3b23c; 
+  color: #2c2a25; 
+  border: 2px solid #a39594;
+	
+}
+
+.button5:hover {
+  background-color: #d69f1f;
+  color: white;
+}
+
 .jokebody{
   background-color: #e3b23c;
   width: 60vw;

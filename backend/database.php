@@ -52,4 +52,19 @@ function login($username, $password){
     return 'notregistered';
   }
 }
+function getCategories(){
+  $conn=connect();
+  $joke=array();
+  $resp=array();
+  $stmt = $conn->prepare("SELECT * FROM categories");
+  $stmt->execute(); 
+  $array = $stmt->fetchAll(PDO::FETCH_ASSOC);
+  return $array;
+  
+}
+function addJoke($joke,$category){
+  $conn=connect();
+  $stmt = $conn->prepare("INSERT INTO jokes(full, category) VALUES(?,?)");
+  $stmt->execute([$joke,$category]); 
+}
 ?>

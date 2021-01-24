@@ -22,7 +22,7 @@ require_once('./backend/config.php');
 <?php if($_SESSION['credidentals']=='moderator'):?>
 <a class="button button1" href="/jokessite/JokeSite/?route=joke&category=2">Moderáció</a>
 <?php elseif($_SESSION['credidentals']=='user'):?>
-<a class="button button1" href="/jokessite/JokeSite/?route=joke&category=2">Hozzáadás</a>
+<a class="button button1" href="/jokessite/JokeSite/?route=add">Hozzáadás</a>
 <?php endif;?>
 <?php else:?>
 <a class="button button1" href="/jokessite/JokeSite/?route=login">Belépés</a>
