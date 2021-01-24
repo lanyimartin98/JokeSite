@@ -393,4 +393,10 @@ VALUES
 5, "A kisgyerek kérdi az apját: </br>- Apu, én hogyan jöttem a világra? Az apa belekezd: </br>- Az úgy volt, hogy anyád és én egy chat szobában ismerkedtünk meg. Ezután találkoztunk egy internet kávézó mosdójában, ahol feltöltést kezdeményeztem anyád szerverére. Utána vettük észre, hogy anyád nem használt tűzfalat, így megtörtént a baj: kilenc hónap múlva letöltődött a vírus. Hát ez vagy te."
 );
 
+INSERT INTO jokes(category, full)
+VALUES
+(
+1, "A repülőn elromlik az egyik hajtómű, a pilóta rádión kéri az utasokat, hogy üljenek le, csatolják be magukat, kényszerleszállást hajtanak végre. A bejelentés után megkéri az egyik stewardesst, hogy ellenőrizze az utasokat: </br>- Mindenki leült, és becsatolta magát? </br>- Igen, már csak egy ügyvéd osztogatja a névjegykártyáját."
+);
+
 
