@@ -311,3 +311,9 @@ VALUES
 (
 4, "A rendőr bejut egy tévés vetélkedőbe és, hogy ne égesse le a rendőrtársadalmat, megmondják neki, hogy a megfejtés a pingvin lesz, de azért megkérik, hogy előbb kérdezzen egy párat, hogy ne legyen feltűnő a csalás. Bemegy a rendőr és kérdezi: </br>- Leülhetek? </br>- Igen. </br>- Rágyújthatok? </br>- Sajnos itt nem. </br>- Akkor pingvin."
 );
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "A rendőrségre kerül egy igen nagy értékben elkövetett lopás gyanújával egy arab. A hadnagy személyesen akarja levezetni a nyomozást, mivel igen nagy értékről van szó, de nem tud arabul. Hívnak tehát egy tolmácsot. Vallatáskor a következő párbeszéd zajlik: Hadnagy: </br>- Kérdezze meg tőle, hova rejtette a pénzt! Tolmács: </br>- Azt kérdezik, hova rejtette a pénzt? Vádlott: </br>- Nem tudok semmiféle pénzről. Tolmács: </br>- Azt mondja, nem fogja megmondani. Hadnagy: </br>- Mondja meg neki, hogy különben kivégezzük! Tolmács: </br>- Azt mondja, hogy ki fogják végezni. Vádlott: </br>- Akkor inkább elmondom: a Mindszenti Templom melletti temetőben, a bal oldali első sírkő alá rejtettem. Tolmács: </br>- Azt mondja, inkább meghal..."
+);
