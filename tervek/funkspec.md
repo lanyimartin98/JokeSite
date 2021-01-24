@@ -86,7 +86,7 @@ anonym_rating | vicceket értékelhetik
 
 ## **Vágyálom rendszer**
 
-Minél gördülékenyebb és egyszerű weboldal fejlesztése, folyamatos adatbázis frissítés az oldalon tárolt viccekkel kapcsolatban. A precíz, és bizalomgerjesztő megjelenés illetve a felhasználó első benyomásra megbízzon az oldal
+Minél gördülékenyebb és egyszerű weboldal fejlesztése, folyamatos adatbázis frissítés az oldalon tárolt viccekkel kapcsolatban. A precíz, és bizalomgerjesztő megjelenés, illetve a felhasználó első benyomásra megbízzon az oldal
 hitelességében. Frissítés és karbantartás napi rendszerességgel.
 
 ## **Funkció**
