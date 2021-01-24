@@ -13,7 +13,7 @@ function getJoke($category){
     $conn=connect();
     $joke=array();
     $resp=array();
-    $stmt = $conn->prepare("SELECT full FROM jokes where category=?");
+    $stmt = $conn->prepare("SELECT full,approved FROM jokes where category=?");
     $stmt->execute([$category]); 
     $array = $stmt->fetchAll(PDO::FETCH_ASSOC);
     return $array;
