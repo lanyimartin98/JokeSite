@@ -417,3 +417,8 @@ VALUES
 1, "Egy betörőcsapat tévedésből betör az ügyvédek klubjába, és kirabolnak pár ügyvédet. Később megállnak egy sötét sikátorban, hogy elszámoljanak a zsákmánnyal: </br>- Úgy néz ki, 25 dollárt tudunk elosztani. </br>- Ugye mondtam </br>- mondja a főnök </br>- hogy vigyázzatok az ügyvédekkel. Mikor betörtünk, még 50 dollárunk volt."
 );
 
+INSERT INTO jokes(category, full)
+VALUES
+(
+1, "Vádlott megkérdi az ügyvédjét: </br>- Meddig tart még ez a kellemetlen helyzet? </br>- Nekem tíz perc, neked tíz év!"
+);
