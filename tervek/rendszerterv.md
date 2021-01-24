@@ -32,6 +32,8 @@ Admin: Webhely karbantarásáért felel, esetleges frissítések telepítése.
 ## **Üzleti folyamat**
 ### Lekérési folyamat:
 
+A felhasználó megjelöli milyen kategóriában szeretne vicceket olvasni, melyeket ezután meg is kap. 
+
 ### Beküldési folyamat
 
 ## **Fizikai környezet**
