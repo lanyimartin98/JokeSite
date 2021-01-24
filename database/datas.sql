@@ -3,6 +3,16 @@ VALUES
 (
 1, "Mi az abszolút kín? </br>- ??? </br>- Ha egy százlábú minden lába egyszerre törik el.");
 
+INSERT INTO jokes(category, full) 
+VALUES(1, "- Milyen az abszolút hullámos haj? </br>- ??? </br>- Amiben tengeri betegséget kap a fésű.");
+
+INSERT INTO jokes(category, full) 
+VALUES(1, "- Mi az abszolút lehetetlen? </br>- ??? </br>- Eposzt írni angolul, német szavakkal.");
+
+INSERT INTO jokes(category, full) VALUES(1, "-- Ki az abszolút szerencsétlen?
+- ???
+- Aki beleül egy szénakazalba és megszúrja egy tű!");
+
 INSERT INTO jokes(category, full)
 VALUES
 (
