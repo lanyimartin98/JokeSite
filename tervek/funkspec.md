@@ -28,7 +28,7 @@ Nem célunk vetélytársat állítani a ma eltejedt közösségi oldalakon terje
 ### Felhasználói szórakozás
 1. Felkeres egy keresőmotoron egy viccportált
 
-2. Rákeres egy viccre amelyet szeretne elolvasni, vagy elolvas egy az oldalon generált viccet, vagy választ a kategóriák közül
+2. Rákeres egy viccre amelyet szeretne elolvasni, vagy elolvasa az oldalon generált viccet, vagy választ a kategóriák közül
 
 3. Megveszi a premium verziót, mellyel nem jelennek meg hirdetések az oldalon.
 
