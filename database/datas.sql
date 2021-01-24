@@ -380,3 +380,9 @@ VALUES
 (
 5, "Egy apa meséli: </br>- A gyerekeim imádnak a Neten szörfözni. Tegnap néztem, hogy milyen jelszót írtak be: Batman</br>-Superman</br>-Robin</br>-Joker. Kérdeztem tőlük, hogy miért ilyen hosszú jelszót választottak. Erre azt felelték: </br>- Legalább négy karakternek kellett lennie."
 );
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+5, "Két IT szakember beszélget: </br>- Tegnap megkértem a barátnőm kezét! </br>- meséli az egyik. </br>- És, igent mondott? </br>- kérdi a másik. </br>- Nem tudom, még nem válaszolt az email</br>-re…"
+);
