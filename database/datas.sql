@@ -294,6 +294,22 @@ VALUES
 3, "A kórházban jön az orvos. Azt mondja a betegnek, aki a hasára panaszkodik: </br>- Jó hírem van, asszonyom! </br>- Nem vagyok asszony! </br>- tiltakozik a nő. </br>- Akkor talán mégsem olyan jó hír…"
 );
 
+INSERT INTO jokes (category,full) 
+VALUES 
+(
+    2,"Csinos fiatal nő az orvosnál:
+</br>- Vetkőzzön le kérem derékig - szól a doktor.
+A hölgy leveti a blúzát és láthatóvá válik egy vékony aranylánc, rajta parányi repülőgép, amely a két melle között fityeg.
+</br>- Micsoda remek kis masina! - figyel fel az orvos. - És micsoda isteni kifutópálya!"
+);
+
+INSERT INTO jokes (category,full) 
+VALUES 
+(
+    2,"</br>- Doktor úr, azt hiszem új szemüvegre lenne szükségem!
+</br>- Az biztos, mert ez egy hentesüzlet!
+"
+);
 
 INSERT INTO jokes(category, full)
 VALUES
