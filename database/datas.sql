@@ -374,3 +374,9 @@ VALUES
 (
 5, "A tízéves, számítógép mániás kisfiút elviszi az anyja az orvoshoz, mert lázas, és csúnyán köhög. Mikor kijönnek a rendelőből, az anyuka így szól a fiúhoz: </br>- A doktor bácsi azt mondta, hogy összeszedtél valami vírust. </br>- Hűha, akkor ez azt jelenti, hogy engem is újra kell installálni?"
 );
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+5, "Egy apa meséli: </br>- A gyerekeim imádnak a Neten szörfözni. Tegnap néztem, hogy milyen jelszót írtak be: Batman</br>-Superman</br>-Robin</br>-Joker. Kérdeztem tőlük, hogy miért ilyen hosszú jelszót választottak. Erre azt felelték: </br>- Legalább négy karakternek kellett lennie."
+);
