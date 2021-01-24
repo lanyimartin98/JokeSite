@@ -357,4 +357,8 @@ VALUES
 4, "Két rendőr megy az utcán, találnak egy gumibotot, az egyik megszólal: </br>- Te ez nem a Béláé? </br>- Kizárt, ő tegnap elvesztette."
 );
 
-
+INSERT INTO jokes(category, full)
+VALUES
+(
+5, "Bill Gates meghal, felkerül a mennybe, Szent Péter elé, aki azt mondja: </br>- Bill, mivel te jó voltál és megajándékoztad az emberiséget a Windows</br>-al, ezért a mennyországba kerülsz és kapsz egy külön jutalomkívánságot. Bill erre azt válaszolja: </br>- Hát, tudod, én mindig is kíváncsi voltam, ezért szeretném a poklot is megnézni. Szent Péter rábólint, azt modja: </br>- Jó, akkor 5 perc múlva lekerülsz a pokolba, majd visszatérsz a mennybe. Úgy is lett, Bill lekerült a pokolba, ám látja, hogy ott mindenki jó kajákat eszik, a legjobb nők teljesítik minden kívánságukat, a legjobb italokat isszák. Letelik az 5 perc, Bill Gates visszatér és azt mondja: </br>- Hú, Szent Péter, tudom ez furcsa kérés, de én inkább a pokolra szeretnék kerülni. </br>- Hát furcsa kérés valóban, de mivel olyan jó voltál, teljesítem. Bill visszakerül a pokolba, ám még mielőtt elkezdhetné élvezni a dolgokat jön két markos ördög és beteszik egy forró üstbe. Bill felkiált: </br>- Na de Szent Péter, az előbb nem erről volt szó! Mire a válasz: </br>- Ja, fiam, az csak demo verzió volt!"
+);
