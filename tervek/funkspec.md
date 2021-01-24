@@ -1,6 +1,6 @@
 # JokeSite Funkcionális specifikáció
 
-##**Jelenlegi helyzet**
+**Jelenlegi helyzet**
 A klasszikus viccoldalak mára leszállóágra jutottak, szeretnénk a saját belátásaink szerint egy vadonatúj tréfaoldalt/napi kedvderítőt létrehozni.
 
 ## **A rendszer célja és nem céljai**
