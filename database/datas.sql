@@ -75,11 +75,22 @@ VALUES
 );
 
 INSERT INTO jokes (category,full) 
-VALUES (2,"Két barát találkozik :
+VALUES 
+(
+    2,"Két barát találkozik :
 </br>- Hát te hol voltál?
 </br>- A temetőben. Az anyósomat temettem el.
 </br>- És miért vagy így összekarmolászva?
-</br>- Nagyon védekezett...");
+</br>- Nagyon védekezett..."
+);
+
+INSERT INTO jokes (category,full) VALUES 
+(
+    2,"Az anyós kérdezi a vejétől:
+</br>- Ha annyira utálsz engem, miért van kirakva a fényképem a TV fölé?
+</br>- Csak azért, hogy a gyerekeknek elmenjen a kedve a TV nézéstől!"
+);
+
 INSERT INTO jokes(category, full)
 VALUES
 (
