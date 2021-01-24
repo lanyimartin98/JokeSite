@@ -25,10 +25,9 @@ A klasszikus viccoldalak mára leszállóágra jutottak, szeretnénk a saját be
 
 
 //**Igényelt üzleti folyamatok modellje**
-1. Egy olyan szoftver fejlesztése amely segítségével bárhonnan intézhető a jegy vásárlás, valamint foglalás.
-2. Segítségével könnyen nyomon követhető a jelenleg lefoglalt helyek száma, helye és ideje.
-3. Biztonságosan intézhető banki átutalás, esetleg bevásárlókosár használata.
-4. Használata regisztrációhoz között, az ügyfél fenntartja a jogot, hogy a foglalásokat és vásárlásokat bármikor megszüntetheti, így admin oldal készítése is elvárt.
+1. Egy olyan szoftver fejlesztése amely segítségével bárhonnan olvashatunk vicceket.
+2. Segítségével könnyen elérhetjük kedvenc tréfáinkat.
+3. Használata regisztrációhoz között, az ügyfél fenntartja a jogot, hogy a vásárlásokat bármikor megszüntetheti, így admin oldal készítése is elvárt.
 
 
 ## **Követelmény lista**
