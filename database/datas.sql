@@ -399,4 +399,10 @@ VALUES
 1, "A repülőn elromlik az egyik hajtómű, a pilóta rádión kéri az utasokat, hogy üljenek le, csatolják be magukat, kényszerleszállást hajtanak végre. A bejelentés után megkéri az egyik stewardesst, hogy ellenőrizze az utasokat: </br>- Mindenki leült, és becsatolta magát? </br>- Igen, már csak egy ügyvéd osztogatja a névjegykártyáját."
 );
 
+INSERT INTO jokes(category, full)
+VALUES
+(
+1, "Ügyfél kérdezi az ügyvédtől: </br>- Mennyi tiszteletdíjat kér jogi tanácsokért? </br>- 20.000 forintba kerül három válasz. </br>- Nem túl drága ez egy kicsit? </br>- De igen. És mi a harmadik kérdése?"
+);
+
 
