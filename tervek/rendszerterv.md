@@ -30,7 +30,7 @@ Admin: Webhely karbantarásáért felel, esetleges frissítések telepítése.
 * 4.Új vicc hozzáadása
 
 ## **Üzleti folyamat**
-### Lekérési folyamat folyamat:
+### Lekérési folyamat:
 
 ### Beküldési folyamat
 
