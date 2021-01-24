@@ -11,7 +11,7 @@
                     }
                     elseif(login($_POST['username'],$_POST['password'])=="user"){
                         session_start();
-                        $_SESSION['credidentals'] = 'moderator';
+                        $_SESSION['credidentals'] = 'user';
                         header('Location: /jokessite/JokeSite/');
                     }
                     else{

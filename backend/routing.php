@@ -15,6 +15,7 @@ if(isset($_GET['route'])){
           break;
           case 'logout':
             session_unset();
+            header('Location:/jokessite/JokeSite');
           break;
         
       }
