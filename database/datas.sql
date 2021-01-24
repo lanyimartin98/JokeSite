@@ -68,7 +68,18 @@ VALUES
 2, "Apu! Nem láttad a könyvemet a hosszú élet titkáról? </br>- Elégettem. </br>- Micsoda? Mégis, , hogy képzelted? </br>- Az anyósom nagyon olvasgatta mostanában…"
 );
 
+INSERT INTO jokes (category,full) 
+VALUES
+(
+2,"- Apa, apa! A nagymama ki akar ugrani az ablakon! </br>- Húú kisfiam, jó hogy szóltál, de most nagyon figyelj! Hozz széket, kamerát és egy sört!"
+);
 
+INSERT INTO jokes (category,full) 
+VALUES (2,"Két barát találkozik :
+</br>- Hát te hol voltál?
+</br>- A temetőben. Az anyósomat temettem el.
+</br>- És miért vagy így összekarmolászva?
+</br>- Nagyon védekezett...");
 INSERT INTO jokes(category, full)
 VALUES
 (
