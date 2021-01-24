@@ -1,6 +1,6 @@
 ## **A rendszer célja és nem céljai**
 
-Célunk egy régi 2000-es évek eleji viccportálok hangulatát idéző weboldal létrehozása, mely a jelenleg nagyban elterjedt mém alapú szórakoztatás helyett a tradícionális értelemben vett "favicceket" helyezi előtérbe, ezzel kedvezve az idősebb generációnak illetve, az erre fogékony fiataloknak.
+Célunk egy régi 2000-es évek eleji viccportálok hangulatát idéző weboldal létrehozása, mely a jelenleg nagyban elterjedt mém alapú szórakoztatás helyett a tradícionális értelemben vett "favicceket" helyezi előtérbe, ezzel kedvezve az idősebb generációnak, illetve az erre fogékony fiataloknak.
 
 Nem célunk vetélytársat állítani a ma eltejedt közösségi oldalakon terjedő viccoldalaknak és csoportoknak.
 
@@ -36,7 +36,7 @@ Admin: Webhely karbantarásáért felel, esetleges frissítések telepítése.
 
 ## **Fizikai környezet**
 
-A weboldal egy feltehetőleg Linux szerveren lesz elhelyezve, ezen a szerveren készül majd el az adatbázis is, mivel webes alkalmazás így a megfelelő host konfiguráció után az egész világ számára platfomrfüggetlenül elérhető, de a célközönségből kiindulva a desktop-first elvek alapján készül a dizájn és elsősorban asztali számítógépekre optimalizálunk.
+A weboldal feltehetőleg  egy Linux szerveren lesz elhelyezve, ezen a szerveren készül majd el az adatbázis is, mivel webes alkalmazás így a megfelelő host konfiguráció után az egész világ számára platformfüggetlenül elérhető, de a célközönségből kiindulva a desktop-first elvek alapján készül a dizájn és elsősorban asztali számítógépekre optimalizálunk.
 
 
 Részei | Leírás
