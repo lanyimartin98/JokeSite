@@ -18,7 +18,11 @@ if(isset($_GET['route'])){
             header('Location:/jokessite/JokeSite');
           break;
           case 'add':
+            if($_SESSION['credidentals']=='user'){
             require_once(ROOT_DIR.'/frontend/add.php');
+            }else{
+              header('Location:/jokessite/JokeSite/');
+            }
             break;
         
       }
