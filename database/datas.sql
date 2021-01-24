@@ -299,3 +299,9 @@ VALUES
 (
 4, "Megy haza a rendőr felesége, és látja, hogy a férje olvas. </br>- Mit csinálsz? </br>- kérdezi tőle. </br>- Nem látod? Olvasok! </br>- Inkább innál, az jobban meglátszik rajtad!"
 );
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "Két rendőr bemegy a McDonald's</br>-ba. </br>- Kérünk két hamburgert! </br>- Fiúk, sajnos elfogyott a hamburger, pechetek van. A két rendőr összenéz, mire rávágja az egyik: </br>- Akkor kérünk két pecheteket!"
+);
