@@ -3,6 +3,16 @@ VALUES
 (
 1, "Mi az abszolút kín? </br>- ??? </br>- Ha egy százlábú minden lába egyszerre törik el.");
 
+INSERT INTO jokes(category, full) 
+VALUES(1, "- Milyen az abszolút hullámos haj? </br>- ??? </br>- Amiben tengeri betegséget kap a fésű.");
+
+INSERT INTO jokes(category, full) 
+VALUES(1, "- Mi az abszolút lehetetlen? </br>- ??? </br>- Eposzt írni angolul, német szavakkal.");
+
+INSERT INTO jokes(category, full) VALUES(1, "-- Ki az abszolút szerencsétlen?
+- ???
+- Aki beleül egy szénakazalba és megszúrja egy tű!");
+
 INSERT INTO jokes(category, full)
 VALUES
 (
@@ -298,4 +308,34 @@ INSERT INTO jokes(category, full)
 VALUES
 (
 4, "Megy haza a rendőr felesége, és látja, hogy a férje olvas. </br>- Mit csinálsz? </br>- kérdezi tőle. </br>- Nem látod? Olvasok! </br>- Inkább innál, az jobban meglátszik rajtad!"
+);
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "Két rendőr bemegy a McDonald's</br>-ba. </br>- Kérünk két hamburgert! </br>- Fiúk, sajnos elfogyott a hamburger, pechetek van. A két rendőr összenéz, mire rávágja az egyik: </br>- Akkor kérünk két pecheteket!"
+);
+
+INSERT INTO jokes(category, full) 
+VALUES(
+4, "Két rendőr anyagi gondokkal küzd, ezért végső kétségbeesésükben elhatározzák, hogy kirabolnak egy bankot. Így is tesznek, két zsákot sikerül elrabolniuk. Egyikük fogja az egyik zsákot, másik a másikat, és különválnak. A rablás után egy évvel ismét találkoznak. </br>- A te zsákodban mi volt? </br>- kérdi az egyik. </br>- 40 millió forint. Vettem is rajta egy házat, meg egy új autót. És a tiédben? </br>- Öregem, nekem nagy pechem volt. Az enyémben csekkek voltak, úgyhogy kölcsönt kellett felvennem, hogy mindet be tudjam fizetni."
+);
+
+INSERT INTO jokes(category,full) 
+VALUES
+(
+4, "A rendőr igazoltat: </br>- Rakják a földre a személyi igazolványukat, jogosítványukat és a gépjármű forgalmi engedélyét! </br>- De biztos úr, a föld csupa sár! </br>- Csönd legyen, csinálják, amit mondtam! A törzsőrmester úr megparancsolta nekem, hogy vegyem fel az adataikat!"
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "A rendőr bejut egy tévés vetélkedőbe és, hogy ne égesse le a rendőrtársadalmat, megmondják neki, hogy a megfejtés a pingvin lesz, de azért megkérik, hogy előbb kérdezzen egy párat, hogy ne legyen feltűnő a csalás. Bemegy a rendőr és kérdezi: </br>- Leülhetek? </br>- Igen. </br>- Rágyújthatok? </br>- Sajnos itt nem. </br>- Akkor pingvin."
+);
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "A rendőrségre kerül egy igen nagy értékben elkövetett lopás gyanújával egy arab. A hadnagy személyesen akarja levezetni a nyomozást, mivel igen nagy értékről van szó, de nem tud arabul. Hívnak tehát egy tolmácsot. Vallatáskor a következő párbeszéd zajlik: Hadnagy: </br>- Kérdezze meg tőle, hova rejtette a pénzt! Tolmács: </br>- Azt kérdezik, hova rejtette a pénzt? Vádlott: </br>- Nem tudok semmiféle pénzről. Tolmács: </br>- Azt mondja, nem fogja megmondani. Hadnagy: </br>- Mondja meg neki, hogy különben kivégezzük! Tolmács: </br>- Azt mondja, hogy ki fogják végezni. Vádlott: </br>- Akkor inkább elmondom: a Mindszenti Templom melletti temetőben, a bal oldali első sírkő alá rejtettem. Tolmács: </br>- Azt mondja, inkább meghal..."
 );
