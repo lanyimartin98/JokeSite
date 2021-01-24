@@ -8,7 +8,7 @@
 					register($_POST['username'],$_POST['password_1']);
 					header('Location: /CarDB/?r=login');
 				}catch(Exception $e){
-					echo "Hiba történt a regisztréciókor!";
+					echo "Hiba történt a regisztrációkor!";
 				}
                }
             
