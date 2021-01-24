@@ -281,3 +281,9 @@ VALUES
 (
 3, "Jenő kórházba kerül, és egy hatalmas kórteremben helyezik el. Az éjjel elszörnyedve tapasztalja, hogy több beteget is kitolnak, lepedővel letakarva. Reggel a vizitnél reklamál a főorvosnál: </br>- Főorvos úr, igazán fenntarthatnának egy külön kórtermet a haldoklóknak. </br>- Röhögni fog. Ez az a kórterem."
 );
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+3, "Fogorvosnál: </br>- Doktor úr, olyan sárgák a fogaim! Tudna valamit ajánlani? </br>- Hmmm... Esetleg egy sárga nyakkendőt."
+);
