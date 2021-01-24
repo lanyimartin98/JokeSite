@@ -405,4 +405,8 @@ VALUES
 1, "Ügyfél kérdezi az ügyvédtől: </br>- Mennyi tiszteletdíjat kér jogi tanácsokért? </br>- 20.000 forintba kerül három válasz. </br>- Nem túl drága ez egy kicsit? </br>- De igen. És mi a harmadik kérdése?"
 );
 
-
+INSERT INTO jokes(category, full)
+VALUES
+(
+1, "Egy roskatag vénlány végrendeletet fogalmaztat az ügyvédjével. 40.000 dollárt letétbe helyez a temetésére és 50.000 dollárt szán annak a fiatalembernek, aki életében utoljára egy feledhetetlen hétvégével ajándékozza meg. A nyakig adósságokban úszó fiatal ügyvéd megtárgyalja otthon a dolgot a feleségével, s bejelentkezik az idős hölgynél szombat reggelre. Vasárnap este a feleség hiába várja az urát, az ifjú férj helyett csupán egy távirat érkezik: Drágám, még egy hétig maradok. Mary úgy döntött, hogy mégis inkább az állam temesse majd el."
+);
