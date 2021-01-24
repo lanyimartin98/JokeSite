@@ -287,3 +287,9 @@ VALUES
 (
 3, "Fogorvosnál: </br>- Doktor úr, olyan sárgák a fogaim! Tudna valamit ajánlani? </br>- Hmmm... Esetleg egy sárga nyakkendőt."
 );
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "A rendőr leint egy kétszázzal száguldozó autóst. </br>- Hová ilyen sietősen? </br>- Ne is kérdezze, biztos úr! Most lőttem le az anyósomat, itt a hullája a csomagtartóban. A csőre töltött pisztolyt még nem volt időm eldobni, itt van a kesztyűtartóban. A rendőr döbbenten előrántja a pisztolyát s a sofőrre fogja, a másik kezével meg rádión sürgős segítséget kér. Megjön az erősítés. </br>- Mire fel ez a nagy riadó, őrmester? </br>- Hadnagy úr, jelentem, ennek az egyénnek ott az anyósa lelőve a csomagtartóban, a pisztoly meg a kesztyűtartóban! Átvizsgálják a kocsit, se hulla, se pisztoly, semmi különöset nem találnak. Egyszer csak megszólal a sofőr: </br>- Fogadjunk, hogy most még azt is rám akarja majd fogni, hogy kétszázzal száguldozok!"
+);
