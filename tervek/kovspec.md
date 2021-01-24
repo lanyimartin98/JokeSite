@@ -11,21 +11,19 @@ Minél gördülékenyebb és egyszerű weboldal fejlesztése, folyamatos adatbá
 hitelességében. Frissítés és karbantartás napi rendszerességgel.
 
 
-
-
 **Jelenlegi helyzet**
 A klasszikus viccoldalak mára leszállóágra jutottak, szeretnénk a saját belátásaink szerint egy vadonatúj tréfaoldalt/napi kedvderítőt létrehozni.
 
 
 //**Jelenlegi üzleti folyamatok modellje**
 ### Felhasználók vicc olvasása
-1. Felkeres egy keresőmotoron egy vicceket tartalmazó weboldalt.
-2. Rákeres egy adott viccre szöveges kereséssel, vagy az oldalon böngészik a lehetőségek közül
-3. Kiválasztja az elérhető viccek közül a megfelelőt, vagy javasolhatja új viccek feltöltését
-4. Kiválasztja a sor és oszlop által meghatározott helyet
-5. Megadja a foglaláshoz szükséges adatokat
-6. A megadott e-mail címre küldött visszaigazolást elfogadja a felhasználó
-7. A fizetés módjától függően fizet
+1. Felkeres egy keresőmotoron egy viccportált
+
+2. Rákeres egy viccre amelyet szeretne elolvasni, vagy elolvas egy az oldalon generált viccet, vagy választ a kategóriák közül
+
+3. Megveszi a premium verziót, mellyel nem jelennek meg hirdetések az oldalon.
+
+
 //**Igényelt üzleti folyamatok modellje**
 1. Egy olyan szoftver fejlesztése amely segítségével bárhonnan intézhető a jegy vásárlás, valamint foglalás.
 2. Segítségével könnyen nyomon követhető a jelenleg lefoglalt helyek száma, helye és ideje.
