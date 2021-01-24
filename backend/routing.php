@@ -2,6 +2,7 @@
 require_once('database.php');
 require_once('config.php');
 require_once(ROOT_DIR.'/frontend/listview.php');
+require_once(ROOT_DIR.'/frontend/moderation.php');
 if(isset($_GET['route'])){
     switch ($_GET['route']) {
         case 'joke':
@@ -24,6 +25,13 @@ if(isset($_GET['route'])){
               header('Location:/jokessite/JokeSite/');
             }
             break;
+            case 'mod':
+              if($_SESSION['credidentals']=='moderator'){
+                generateModeration(getUnApprovedJokes());
+              }else{
+                header('Location:/jokessite/JokeSite/');
+              }
+              break;
         
       }
     }
