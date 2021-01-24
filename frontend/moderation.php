@@ -7,7 +7,7 @@ foreach ($array as $v) {
     $v["full"]
     ."</td>
     </tr>
-    <tr><td><a href=/jokessite/JokeSite/route=agree&id=".$v['id'].">Elfogad</a></td><td><a href=/jokessite/JokeSite/route=decline&id=".$v['id'].">Elutasít</a></td></tr>
+    <tr><td><a href=/jokessite/JokeSite/?route=approve&id=".$v['id'].">Elfogad</a></td><td><a href=/jokessite/JokeSite/?route=decline&id=".$v['id'].">Elutasít</a></td></tr>
     </table>
     </div>
     </br>
