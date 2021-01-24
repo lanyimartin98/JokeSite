@@ -368,3 +368,9 @@ VALUES
 (
 5, "Support: Nyomja meg a Control + Alt + Del gombokat. Ügyfél: Hú, ez kicsit bonyolult így egybe... Support: Azért próbálja meg, menni fog. Ügyfél: Semmi nem történt. Support: Ismételje meg! Ügyfél: Megint semmi. Support: Pontosan mit csinál? Ügyfél: Mit, hát azt, amit mond. Lenyomom a C, az O, az N, a T, az R, az O, az L + ..."
 );
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+5, "A tízéves, számítógép mániás kisfiút elviszi az anyja az orvoshoz, mert lázas, és csúnyán köhög. Mikor kijönnek a rendelőből, az anyuka így szól a fiúhoz: </br>- A doktor bácsi azt mondta, hogy összeszedtél valami vírust. </br>- Hűha, akkor ez azt jelenti, hogy engem is újra kell installálni?"
+);
