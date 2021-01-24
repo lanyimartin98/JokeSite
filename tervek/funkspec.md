@@ -65,8 +65,8 @@ anonym_rating | vicceket értékelhetik
 
 ## Megfeleltetés	
 - Prémium vásárlása(reklámmentesség) (u_purchase)
-- A vicceket az adminok módosíthatják, valamint törölhetik (A_moderate)
-- Admin oldal fentartása, ahol lehetőségük van a felhasználók felülvizsgálatára(A_login, A_supervise)
+- A vicceket az adminok módosíthatják, publikálhatják, valamint törölhetik (A_moderate)
+- Admin oldal fenntartása, ahol lehetőségük van a felhasználók felülvizsgálatára(A_login, A_supervise)
 - Kereső funkció és kategória szerint is szűkíteni az opciókat(u_browse, u_search)
 - Lehetőség legyen a viccek jelentésére, megosztására(u_report, u_share)
 - Felhasználók adatainak biztonságos kezelése(passw_enc, user_data_scope)

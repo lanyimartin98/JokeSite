@@ -1,4 +1,3 @@
-
 INSERT INTO jokes(category, full)
 VALUES
 (
@@ -184,8 +183,6 @@ VALUES
 (
 5, "Két régi barát teniszezni készül, az öltözőben vannak, amikor az egyik döbbenten kérdezi a másiktól: </br>- Jesszusom, Te mióta viselsz női fehérneműt? </br>- Sajnos azóta, hogy a feleségem az autó kesztyűtartójában egy női tangát talált és el kellett hitetnem vele, hogy én szoktam hordani..."
 );
-
-
 INSERT INTO jokes(category, full)
 VALUES
 (
@@ -279,143 +276,4 @@ VALUES
 3, "Apuka a pszichiáternél: </br>- Doktor úr, a kisfiam folyton falhoz vágja a spenótot. Mit tegyünk? </br>- Hm... Vegyenek zöld tapétát."
 );
 
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-3, "Jenő kórházba kerül, és egy hatalmas kórteremben helyezik el. Az éjjel elszörnyedve tapasztalja, hogy több beteget is kitolnak, lepedővel letakarva. Reggel a vizitnél reklamál a főorvosnál: </br>- Főorvos úr, igazán fenntarthatnának egy külön kórtermet a haldoklóknak. </br>- Röhögni fog. Ez az a kórterem."
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-3, "Fogorvosnál: </br>- Doktor úr, olyan sárgák a fogaim! Tudna valamit ajánlani? </br>- Hmmm... Esetleg egy sárga nyakkendőt."
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-4, "A rendőr leint egy kétszázzal száguldozó autóst. </br>- Hová ilyen sietősen? </br>- Ne is kérdezze, biztos úr! Most lőttem le az anyósomat, itt a hullája a csomagtartóban. A csőre töltött pisztolyt még nem volt időm eldobni, itt van a kesztyűtartóban. A rendőr döbbenten előrántja a pisztolyát s a sofőrre fogja, a másik kezével meg rádión sürgős segítséget kér. Megjön az erősítés. </br>- Mire fel ez a nagy riadó, őrmester? </br>- Hadnagy úr, jelentem, ennek az egyénnek ott az anyósa lelőve a csomagtartóban, a pisztoly meg a kesztyűtartóban! Átvizsgálják a kocsit, se hulla, se pisztoly, semmi különöset nem találnak. Egyszer csak megszólal a sofőr: </br>- Fogadjunk, hogy most még azt is rám akarja majd fogni, hogy kétszázzal száguldozok!"
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-4, "Megy haza a rendőr felesége, és látja, hogy a férje olvas. </br>- Mit csinálsz? </br>- kérdezi tőle. </br>- Nem látod? Olvasok! </br>- Inkább innál, az jobban meglátszik rajtad!"
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-4, "Két rendőr bemegy a McDonald's</br>-ba. </br>- Kérünk két hamburgert! </br>- Fiúk, sajnos elfogyott a hamburger, pechetek van. A két rendőr összenéz, mire rávágja az egyik: </br>- Akkor kérünk két pecheteket!"
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-4, "A rendőr bejut egy tévés vetélkedőbe és, hogy ne égesse le a rendőrtársadalmat, megmondják neki, hogy a megfejtés a pingvin lesz, de azért megkérik, hogy előbb kérdezzen egy párat, hogy ne legyen feltűnő a csalás. Bemegy a rendőr és kérdezi: </br>- Leülhetek? </br>- Igen. </br>- Rágyújthatok? </br>- Sajnos itt nem. </br>- Akkor pingvin."
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-4, "A rendőrségre kerül egy igen nagy értékben elkövetett lopás gyanújával egy arab. A hadnagy személyesen akarja levezetni a nyomozást, mivel igen nagy értékről van szó, de nem tud arabul. Hívnak tehát egy tolmácsot. Vallatáskor a következő párbeszéd zajlik: Hadnagy: </br>- Kérdezze meg tőle, hova rejtette a pénzt! Tolmács: </br>- Azt kérdezik, hova rejtette a pénzt? Vádlott: </br>- Nem tudok semmiféle pénzről. Tolmács: </br>- Azt mondja, nem fogja megmondani. Hadnagy: </br>- Mondja meg neki, hogy különben kivégezzük! Tolmács: </br>- Azt mondja, hogy ki fogják végezni. Vádlott: </br>- Akkor inkább elmondom: a Mindszenti Templom melletti temetőben, a bal oldali első sírkő alá rejtettem. Tolmács: </br>- Azt mondja, inkább meghal..."
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-4, "Két rendőr megy az utcán, találnak egy gumibotot, az egyik megszólal: </br>- Te ez nem a Béláé? </br>- Kizárt, ő tegnap elvesztette."
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-5, "Bill Gates meghal, felkerül a mennybe, Szent Péter elé, aki azt mondja: </br>- Bill, mivel te jó voltál és megajándékoztad az emberiséget a Windows</br>-al, ezért a mennyországba kerülsz és kapsz egy külön jutalomkívánságot. Bill erre azt válaszolja: </br>- Hát, tudod, én mindig is kíváncsi voltam, ezért szeretném a poklot is megnézni. Szent Péter rábólint, azt modja: </br>- Jó, akkor 5 perc múlva lekerülsz a pokolba, majd visszatérsz a mennybe. Úgy is lett, Bill lekerült a pokolba, ám látja, hogy ott mindenki jó kajákat eszik, a legjobb nők teljesítik minden kívánságukat, a legjobb italokat isszák. Letelik az 5 perc, Bill Gates visszatér és azt mondja: </br>- Hú, Szent Péter, tudom ez furcsa kérés, de én inkább a pokolra szeretnék kerülni. </br>- Hát furcsa kérés valóban, de mivel olyan jó voltál, teljesítem. Bill visszakerül a pokolba, ám még mielőtt elkezdhetné élvezni a dolgokat jön két markos ördög és beteszik egy forró üstbe. Bill felkiált: </br>- Na de Szent Péter, az előbb nem erről volt szó! Mire a válasz: </br>- Ja, fiam, az csak demo verzió volt!"
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-5, "Support: Nyomja meg a Control + Alt + Del gombokat. Ügyfél: Hú, ez kicsit bonyolult így egybe... Support: Azért próbálja meg, menni fog. Ügyfél: Semmi nem történt. Support: Ismételje meg! Ügyfél: Megint semmi. Support: Pontosan mit csinál? Ügyfél: Mit, hát azt, amit mond. Lenyomom a C, az O, az N, a T, az R, az O, az L + ..."
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-5, "A tízéves, számítógép mániás kisfiút elviszi az anyja az orvoshoz, mert lázas, és csúnyán köhög. Mikor kijönnek a rendelőből, az anyuka így szól a fiúhoz: </br>- A doktor bácsi azt mondta, hogy összeszedtél valami vírust. </br>- Hűha, akkor ez azt jelenti, hogy engem is újra kell installálni?"
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-5, "Egy apa meséli: </br>- A gyerekeim imádnak a Neten szörfözni. Tegnap néztem, hogy milyen jelszót írtak be: Batman</br>-Superman</br>-Robin</br>-Joker. Kérdeztem tőlük, hogy miért ilyen hosszú jelszót választottak. Erre azt felelték: </br>- Legalább négy karakternek kellett lennie."
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-5, "Két IT szakember beszélget: </br>- Tegnap megkértem a barátnőm kezét! </br>- meséli az egyik. </br>- És, igent mondott? </br>- kérdi a másik. </br>- Nem tudom, még nem válaszolt az email</br>-re…"
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-5, "A kisgyerek kérdi az apját: </br>- Apu, én hogyan jöttem a világra? Az apa belekezd: </br>- Az úgy volt, hogy anyád és én egy chat szobában ismerkedtünk meg. Ezután találkoztunk egy internet kávézó mosdójában, ahol feltöltést kezdeményeztem anyád szerverére. Utána vettük észre, hogy anyád nem használt tűzfalat, így megtörtént a baj: kilenc hónap múlva letöltődött a vírus. Hát ez vagy te."
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-1, "A repülőn elromlik az egyik hajtómű, a pilóta rádión kéri az utasokat, hogy üljenek le, csatolják be magukat, kényszerleszállást hajtanak végre. A bejelentés után megkéri az egyik stewardesst, hogy ellenőrizze az utasokat: </br>- Mindenki leült, és becsatolta magát? </br>- Igen, már csak egy ügyvéd osztogatja a névjegykártyáját."
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-1, "Ügyfél kérdezi az ügyvédtől: </br>- Mennyi tiszteletdíjat kér jogi tanácsokért? </br>- 20.000 forintba kerül három válasz. </br>- Nem túl drága ez egy kicsit? </br>- De igen. És mi a harmadik kérdése?"
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-1, "Egy roskatag vénlány végrendeletet fogalmaztat az ügyvédjével. 40.000 dollárt letétbe helyez a temetésére és 50.000 dollárt szán annak a fiatalembernek, aki életében utoljára egy feledhetetlen hétvégével ajándékozza meg. A nyakig adósságokban úszó fiatal ügyvéd megtárgyalja otthon a dolgot a feleségével, s bejelentkezik az idős hölgynél szombat reggelre. Vasárnap este a feleség hiába várja az urát, az ifjú férj helyett csupán egy távirat érkezik: Drágám, még egy hétig maradok. Mary úgy döntött, hogy mégis inkább az állam temesse majd el."
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-1, "Egy betörőcsapat tévedésből betör az ügyvédek klubjába, és kirabolnak pár ügyvédet. Később megállnak egy sötét sikátorban, hogy elszámoljanak a zsákmánnyal: </br>- Úgy néz ki, 25 dollárt tudunk elosztani. </br>- Ugye mondtam </br>- mondja a főnök </br>- hogy vigyázzatok az ügyvédekkel. Mikor betörtünk, még 50 dollárunk volt."
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-1, "Vádlott megkérdi az ügyvédjét: </br>- Meddig tart még ez a kellemetlen helyzet? </br>- Nekem tíz perc, neked tíz év!"
-);
-
-
-INSERT INTO jokes(category, full)
-VALUES
-(
-1, "Egy nő sorban áll a postán, amikor észreveszi, hogy előtte egy középkorú, kopaszodó férfi rengeteg, szívekkel teli képeslapra kis szivecske</br>-bélyegzőt nyomkod, majd elővesz egy parfümös üveget, és az összes lapot egyenként befújja. A nő nem bírja megállni szó nélkül: </br>- Mondja, maga mit csinál? </br>- Szétküldök 500 darab Valentin</br>-napi képeslapot azzal a szöveggel, hogy: Találd ki, ki vagyok! </br>- De miért? </br>- Válóperes ügyvéd vagyok."
-);
 
