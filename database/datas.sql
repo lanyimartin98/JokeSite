@@ -305,3 +305,9 @@ VALUES
 (
 4, "Két rendőr bemegy a McDonald's</br>-ba. </br>- Kérünk két hamburgert! </br>- Fiúk, sajnos elfogyott a hamburger, pechetek van. A két rendőr összenéz, mire rávágja az egyik: </br>- Akkor kérünk két pecheteket!"
 );
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "A rendőr bejut egy tévés vetélkedőbe és, hogy ne égesse le a rendőrtársadalmat, megmondják neki, hogy a megfejtés a pingvin lesz, de azért megkérik, hogy előbb kérdezzen egy párat, hogy ne legyen feltűnő a csalás. Bemegy a rendőr és kérdezi: </br>- Leülhetek? </br>- Igen. </br>- Rágyújthatok? </br>- Sajnos itt nem. </br>- Akkor pingvin."
+);
