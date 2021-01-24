@@ -17,6 +17,9 @@ if(isset($_GET['route'])){
             session_unset();
             header('Location:/jokessite/JokeSite');
           break;
+          case 'add':
+            require_once(ROOT_DIR.'/frontend/add.php');
+            break;
         
       }
     }
