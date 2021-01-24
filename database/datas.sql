@@ -422,3 +422,9 @@ VALUES
 (
 1, "Vádlott megkérdi az ügyvédjét: </br>- Meddig tart még ez a kellemetlen helyzet? </br>- Nekem tíz perc, neked tíz év!"
 );
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+1, "Egy nő sorban áll a postán, amikor észreveszi, hogy előtte egy középkorú, kopaszodó férfi rengeteg, szívekkel teli képeslapra kis szivecske</br>-bélyegzőt nyomkod, majd elővesz egy parfümös üveget, és az összes lapot egyenként befújja. A nő nem bírja megállni szó nélkül: </br>- Mondja, maga mit csinál? </br>- Szétküldök 500 darab Valentin</br>-napi képeslapot azzal a szöveggel, hogy: Találd ki, ki vagyok! </br>- De miért? </br>- Válóperes ügyvéd vagyok."
+);
