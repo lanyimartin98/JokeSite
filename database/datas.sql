@@ -142,3 +142,93 @@ VALUES
 4, "Hogy haladsz a házépitéssel? </br>- kérdi az egyik tolvaj a másikat. </br>- Téglát már szereztem. Cementet, homokot és meszet is. De hogy kőműveseket honnan lopok?"
 );
 
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "A börtönör odaszól a raboknak: </br>- Van egy jó és egy rossz hírem. Melyiket mondjam elsőnek? </br>- A jót. </br>- Ma szabadultok </br>- mondja az őr. </br>- És mi a rossz? </br>- Az, hogy ez nem igaz."
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "Bíróságon: </br>- De hát maga már többször volt büntetve! </br>- Ne legyen ilyen egyoldalú, bíró úr, többször voltam szabadlábon is!"
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+5, "Azt mondja a férj a feleségének: </br>- Meghívtam egy barátomat vacsorára. </br>- Megőrültél? Nincs semmi kaja itthon, tiszta kosz minden, a hajam szörnyű! Miért hívtad meg a szerencsétlent? </br>- Segíteni akartam neki. Szerencsétlen nem tudja eldönteni, megnősüljön</br>-e vagy sem..."
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+5, "Pistikéék szép nagy családi házba költöznek. Meglátogatja őket egy rokon, és megkérdezi Pistikétől, hogy milyen itt lakni. </br>- Nagyon jó. Van saját szobám, a nővéremnek is van, az öcsémnek is. De szegény anyunak még mindig egy szobában kell aludnia az apuval!"
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+5, "Két kisgyerek játszik egymással: </br>- Játszunk papás</br>-mamást! </br>- Rendben van. Kezdheted! </br>- Bárcsak soha nem vettelek volna feleségül!"
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+5, "Két régi barát teniszezni készül, az öltözőben vannak, amikor az egyik döbbenten kérdezi a másiktól: </br>- Jesszusom, Te mióta viselsz női fehérneműt? </br>- Sajnos azóta, hogy a feleségem az autó kesztyűtartójában egy női tangát talált és el kellett hitetnem vele, hogy én szoktam hordani..."
+);
+INSERT INTO jokes(category, full)
+VALUES
+(
+1, "Újsághirdetés: Megkérném azt az urat, aki szombaton du. az uszoda egyik padján felejtette a műfogsorát, hogy hívja fel a feleségemet, és magyarázza el neki a testem kényesebb pontjára került foglenyomat okát!"
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+1, "Társkereső hirdetés: Lány, 23 éves, jól szituált, kellemes külsejű, jó testalkatú, fekete hajú, kék szemű, hasonló tulajdonságokkal rendelkező férfi ismeretségét keresi kinek 5 köbméter tölgyfa gerendát eladna."
+);
+
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+1, "Alig használt A/4</br>-es tiszta, fehér papírlapomat, hasonló paraméterekkel rendelkező AUDI gépkocsira cserélném!"
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+1, "Hirdetés egy kutyás újság egyik oldalán: Kutya eladó. Nem válogatós, megeszik mindent. Szereti a gyerekeket."
+
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+2, "Mórickát felelteti a tanár. </br>- Melyik a legrövidebb hónap? </br>- Május! </br>- feleli Móricka. </br>- Miért? </br>- Mert az csak öt betűs."
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+2, "A földrajztanár felszólítja Mórickát: </br>- Definiáld nekem a szél fogalmát! </br>- A szél olyan levegő, amelyiknek sürgős dolga van."
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+2, "Móricka, mi volt az iskolában? </br>- kérdezi Móricka apja. </br>- Hallottam egy tök jó rendőrviccet! </br>- mondja Móricka. </br>- De fiam, én is rendőr vagyok! </br>- Akkor lassabban mondom, hogy Te is megértsd!"
+);
