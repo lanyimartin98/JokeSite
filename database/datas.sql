@@ -316,6 +316,18 @@ VALUES
 4, "Két rendőr bemegy a McDonald's</br>-ba. </br>- Kérünk két hamburgert! </br>- Fiúk, sajnos elfogyott a hamburger, pechetek van. A két rendőr összenéz, mire rávágja az egyik: </br>- Akkor kérünk két pecheteket!"
 );
 
+INSERT INTO jokes(category, full) 
+VALUES(
+4, "Két rendőr anyagi gondokkal küzd, ezért végső kétségbeesésükben elhatározzák, hogy kirabolnak egy bankot. Így is tesznek, két zsákot sikerül elrabolniuk. Egyikük fogja az egyik zsákot, másik a másikat, és különválnak. A rablás után egy évvel ismét találkoznak. </br>- A te zsákodban mi volt? </br>- kérdi az egyik. </br>- 40 millió forint. Vettem is rajta egy házat, meg egy új autót. És a tiédben? </br>- Öregem, nekem nagy pechem volt. Az enyémben csekkek voltak, úgyhogy kölcsönt kellett felvennem, hogy mindet be tudjam fizetni."
+);
+
+INSERT INTO jokes(category,full) 
+VALUES
+(
+4, "A rendőr igazoltat: </br>- Rakják a földre a személyi igazolványukat, jogosítványukat és a gépjármű forgalmi engedélyét! </br>- De biztos úr, a föld csupa sár! </br>- Csönd legyen, csinálják, amit mondtam! A törzsőrmester úr megparancsolta nekem, hogy vegyem fel az adataikat!"
+);
+
+
 INSERT INTO jokes(category, full)
 VALUES
 (
