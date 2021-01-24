@@ -139,6 +139,10 @@ A Backend egy szerveroldalon renderelt PHP alkalmazás, adatbáziskapcsolattal, 
 
 ### **Funkcionális követelmények:**
 
+    - Könnyű kezelhetőség
+	- Áttekinhető és felhasználó barát felület
+	- Viccek keresése
+	- Saját viccek feltöltése
 
 ### **Nem-funkcionális követelmények:**
 #### **A weboldal:**
