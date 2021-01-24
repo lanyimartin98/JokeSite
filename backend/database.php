@@ -77,4 +77,10 @@ function getUnApprovedJokes(){
   return $array;
   
 }
+function approve($id){
+
+}
+function approve($id){
+  
+}
 ?>

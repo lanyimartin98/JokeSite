@@ -286,4 +286,44 @@ VALUES
 3, "Apuka a pszichiáternél: </br>- Doktor úr, a kisfiam folyton falhoz vágja a spenótot. Mit tegyünk? </br>- Hm... Vegyenek zöld tapétát."
 );
 
+INSERT INTO jokes(category, full)
+VALUES
+(
+3, "Jenő kórházba kerül, és egy hatalmas kórteremben helyezik el. Az éjjel elszörnyedve tapasztalja, hogy több beteget is kitolnak, lepedővel letakarva. Reggel a vizitnél reklamál a főorvosnál: </br>- Főorvos úr, igazán fenntarthatnának egy külön kórtermet a haldoklóknak. </br>- Röhögni fog. Ez az a kórterem."
+);
 
+INSERT INTO jokes(category, full)
+VALUES
+(
+3, "Fogorvosnál: </br>- Doktor úr, olyan sárgák a fogaim! Tudna valamit ajánlani? </br>- Hmmm... Esetleg egy sárga nyakkendőt."
+);
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "A rendőr leint egy kétszázzal száguldozó autóst. </br>- Hová ilyen sietősen? </br>- Ne is kérdezze, biztos úr! Most lőttem le az anyósomat, itt a hullája a csomagtartóban. A csőre töltött pisztolyt még nem volt időm eldobni, itt van a kesztyűtartóban. A rendőr döbbenten előrántja a pisztolyát s a sofőrre fogja, a másik kezével meg rádión sürgős segítséget kér. Megjön az erősítés. </br>- Mire fel ez a nagy riadó, őrmester? </br>- Hadnagy úr, jelentem, ennek az egyénnek ott az anyósa lelőve a csomagtartóban, a pisztoly meg a kesztyűtartóban! Átvizsgálják a kocsit, se hulla, se pisztoly, semmi különöset nem találnak. Egyszer csak megszólal a sofőr: </br>- Fogadjunk, hogy most még azt is rám akarja majd fogni, hogy kétszázzal száguldozok!"
+);
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "Megy haza a rendőr felesége, és látja, hogy a férje olvas. </br>- Mit csinálsz? </br>- kérdezi tőle. </br>- Nem látod? Olvasok! </br>- Inkább innál, az jobban meglátszik rajtad!"
+);
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "Két rendőr bemegy a McDonald's</br>-ba. </br>- Kérünk két hamburgert! </br>- Fiúk, sajnos elfogyott a hamburger, pechetek van. A két rendőr összenéz, mire rávágja az egyik: </br>- Akkor kérünk két pecheteket!"
+);
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "A rendőr bejut egy tévés vetélkedőbe és, hogy ne égesse le a rendőrtársadalmat, megmondják neki, hogy a megfejtés a pingvin lesz, de azért megkérik, hogy előbb kérdezzen egy párat, hogy ne legyen feltűnő a csalás. Bemegy a rendőr és kérdezi: </br>- Leülhetek? </br>- Igen. </br>- Rágyújthatok? </br>- Sajnos itt nem. </br>- Akkor pingvin."
+);
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+4, "A rendőrségre kerül egy igen nagy értékben elkövetett lopás gyanújával egy arab. A hadnagy személyesen akarja levezetni a nyomozást, mivel igen nagy értékről van szó, de nem tud arabul. Hívnak tehát egy tolmácsot. Vallatáskor a következő párbeszéd zajlik: Hadnagy: </br>- Kérdezze meg tőle, hova rejtette a pénzt! Tolmács: </br>- Azt kérdezik, hova rejtette a pénzt? Vádlott: </br>- Nem tudok semmiféle pénzről. Tolmács: </br>- Azt mondja, nem fogja megmondani. Hadnagy: </br>- Mondja meg neki, hogy különben kivégezzük! Tolmács: </br>- Azt mondja, hogy ki fogják végezni. Vádlott: </br>- Akkor inkább elmondom: a Mindszenti Templom melletti temetőben, a bal oldali első sírkő alá rejtettem. Tolmács: </br>- Azt mondja, inkább meghal..."
+);
