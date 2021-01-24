@@ -276,4 +276,8 @@ VALUES
 3, "Apuka a pszichiáternél: </br>- Doktor úr, a kisfiam folyton falhoz vágja a spenótot. Mit tegyünk? </br>- Hm... Vegyenek zöld tapétát."
 );
 
-
+INSERT INTO jokes(category, full)
+VALUES
+(
+3, "Jenő kórházba kerül, és egy hatalmas kórteremben helyezik el. Az éjjel elszörnyedve tapasztalja, hogy több beteget is kitolnak, lepedővel letakarva. Reggel a vizitnél reklamál a főorvosnál: </br>- Főorvos úr, igazán fenntarthatnának egy külön kórtermet a haldoklóknak. </br>- Röhögni fog. Ez az a kórterem."
+);
