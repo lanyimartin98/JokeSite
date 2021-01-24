@@ -67,4 +67,14 @@ function addJoke($joke,$category){
   $stmt = $conn->prepare("INSERT INTO jokes(full, category) VALUES(?,?)");
   $stmt->execute([$joke,$category]); 
 }
+function getUnApprovedJokes(){
+  $conn=connect();
+  $joke=array();
+  $resp=array();
+  $stmt = $conn->prepare("SELECT * FROM `jokes` where isnull(approved)");
+  $stmt->execute(); 
+  $array = $stmt->fetchAll(PDO::FETCH_ASSOC);
+  return $array;
+  
+}
 ?>
