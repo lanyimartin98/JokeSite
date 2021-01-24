@@ -34,7 +34,13 @@ Admin: Webhely karbantarásáért felel, esetleges frissítések telepítése.
 
 A felhasználó megjelöli milyen kategóriában szeretne vicceket olvasni, melyeket ezután meg is kap. 
 
-### Beküldési folyamat
+### Beküldési folyamat: 
+
+A felhasználó maga is tudja bővíteni a vicc adatbázist, melyet beküldés után a moderátor elfogadhatja vagy el is utasíthatja. 
+
+Elfogadás esetén a  beküldött viccek bekerülnek a lekérdezésekbe. 
+
+Elutasítás esetén a beküldött viccek törlödnek.
 
 ## **Fizikai környezet**
 
