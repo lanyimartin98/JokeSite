@@ -13,7 +13,7 @@ Nem célunk vetélytársat állítani a ma eltejedt közösségi oldalakon terje
 
 1. A viccportál használatával, a felhasználó tudomásul veszi és elfogadja az Adatvédelmi és Általános Szerződési Feltételeket.
 
-2. Az Adatvédelmi és Általános Szerződési Feltételeket megtalálhatóak a weboldalon. Az oldal fenntartja a jogot a jelen Szabályok módosítására. A változásról és annak hatályba lépésének idejéről weboldalunk ad tájékoztatást.
+2. Az Adatvédelmi és Általános Szerződési Feltételeket megtalálhatóak a weboldalon. Az oldal fenntartja a jogot a jelen szabályok módosítására. A változásról és annak hatályba lépésének idejéről weboldalunk ad tájékoztatást.
 
 3. Minden, az ÁSZF-ben nem tárgyalt jogi vonatkozással kapcsolatban a magyarországi törvényeket és a magyarországi hatóságok döntéseit tartjuk irányadónak.
 
@@ -41,7 +41,7 @@ Nem célunk vetélytársat állítani a ma eltejedt közösségi oldalakon terje
 ## **Követelmény lista**
 ### Követelmény csoportok
 - A : admin felületre vonatkozó követelmények
-- U :  userre vonatkozó követelmények
+- U : userre vonatkozó követelmények
 
 ### Funkcionális követelmények
 Csoport azonosító | Követelmény azonosító | Leírás
@@ -119,7 +119,3 @@ Az egyes kategóriákra kattintva a felhasználó hozzáférhet a megnevezett t�
 
 Az adminok funkciói konkrétan a mindenhez való hozzáférés. Az adminok kapcsolatban állnak az összes végbement, illetve végrehajtásra várakozó 
 funkciókkal, műveletekkel.
-
-
-
-
