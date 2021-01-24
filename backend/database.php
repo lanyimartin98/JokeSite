@@ -78,9 +78,16 @@ function getUnApprovedJokes(){
   
 }
 function approve($id){
-
+  $conn=connect();
+  $sql="UPDATE jokes SET approved=1 WHERE id=?";
+  $conn->prepare($sql)->
+  execute([$id]);
+          
 }
-function approve($id){
-  
+function decline($id){
+  $conn=connect();
+  $sql="DELETE FROM jokes WHERE id=?";
+  $conn->prepare($sql)->
+  execute([$id]);
 }
 ?>

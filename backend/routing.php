@@ -32,6 +32,22 @@ if(isset($_GET['route'])){
                 header('Location:/jokessite/JokeSite/');
               }
               break;
+            case 'approve':
+              if($_SESSION['credidentals']=='moderator'){
+                  approve($_GET['id']);
+                  header('Location:/jokessite/JokeSite/');
+                }else{
+                  header('Location:/jokessite/JokeSite/');
+                }
+                break;
+             case 'decline':
+                  if($_SESSION['credidentals']=='moderator'){
+                      decline($_GET['id']);
+                      header('Location:/jokessite/JokeSite/');
+                    }else{
+                      header('Location:/jokessite/JokeSite/');
+                    }
+                    break;
         
       }
     }
