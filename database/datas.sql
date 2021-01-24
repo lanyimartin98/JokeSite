@@ -232,3 +232,48 @@ VALUES
 (
 2, "Móricka, mi volt az iskolában? </br>- kérdezi Móricka apja. </br>- Hallottam egy tök jó rendőrviccet! </br>- mondja Móricka. </br>- De fiam, én is rendőr vagyok! </br>- Akkor lassabban mondom, hogy Te is megértsd!"
 );
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+2, "Biológia órán tanárnő kérdi Mórickát: </br>- Móricka, mije van a libának? </br>- Szeme! </br>- Móricka, és még mije van a libának? </br>- Másik szeme! </br>- Móricka! Mivel takaróztok otthon, ha hideg van? </br>- Párnával! </br>- És Móricka, mi van a párnában? </br>- Toll! </br>- Tehát akkor Móricka, mije van a libának? </br>- Szeme!
+"
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+2, "Az ötéves Móricka anyukája bemegy a gyerekszobába, és látja, hogy a kisfia ül a szőnyegen és sírdogál. </br>- Mi baj, drágám? </br>- kérdezi tőle. </br>- Most jöttem rá, hogy hogy kell bekötni a cipőfűzőmet. </br>- Hát ez igazán jó hír! Miért kell ezért pityeregni? </br>- Mert ezután egész életemben nekem kell majd bekötnöm!"
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+3, "Egy ember bemegy a szemészetre: </br>- Doktor Úr, baj van a látásommal. </br>- Miben nyilvánul ez meg? </br>- kérdezi az orvos. </br>- Látja a falban azt a szöget doktor úr? </br>- Igen, látom, és? </br>- Na látja... én azt nem látom!"
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+3, "A kórházban jön az orvos. Azt mondja a betegnek, aki a hasára panaszkodik: </br>- Jó hírem van, asszonyom! </br>- Nem vagyok asszony! </br>- tiltakozik a nő. </br>- Akkor talán mégsem olyan jó hír…"
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+3, "Képzeld, fél éve operáltak, és a sebész a gyomromban felejtett egy szivacsot! </br>- Félelmetes! </br>- mondja a másik együttérzően. </br>- És fáj? </br>- Azt nem mondanám, de azóta állandóan szomjas vagyok!"
+);
+
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+3, "Apuka a pszichiáternél: </br>- Doktor úr, a kisfiam folyton falhoz vágja a spenótot. Mit tegyünk? </br>- Hm... Vegyenek zöld tapétát."
+);
+
+
