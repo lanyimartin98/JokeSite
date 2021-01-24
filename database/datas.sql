@@ -410,3 +410,10 @@ VALUES
 (
 1, "Egy roskatag vénlány végrendeletet fogalmaztat az ügyvédjével. 40.000 dollárt letétbe helyez a temetésére és 50.000 dollárt szán annak a fiatalembernek, aki életében utoljára egy feledhetetlen hétvégével ajándékozza meg. A nyakig adósságokban úszó fiatal ügyvéd megtárgyalja otthon a dolgot a feleségével, s bejelentkezik az idős hölgynél szombat reggelre. Vasárnap este a feleség hiába várja az urát, az ifjú férj helyett csupán egy távirat érkezik: Drágám, még egy hétig maradok. Mary úgy döntött, hogy mégis inkább az állam temesse majd el."
 );
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+1, "Egy betörőcsapat tévedésből betör az ügyvédek klubjába, és kirabolnak pár ügyvédet. Később megállnak egy sötét sikátorban, hogy elszámoljanak a zsákmánnyal: </br>- Úgy néz ki, 25 dollárt tudunk elosztani. </br>- Ugye mondtam </br>- mondja a főnök </br>- hogy vigyázzatok az ügyvédekkel. Mikor betörtünk, még 50 dollárunk volt."
+);
+
