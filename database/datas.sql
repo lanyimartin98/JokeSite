@@ -386,3 +386,11 @@ VALUES
 (
 5, "Két IT szakember beszélget: </br>- Tegnap megkértem a barátnőm kezét! </br>- meséli az egyik. </br>- És, igent mondott? </br>- kérdi a másik. </br>- Nem tudom, még nem válaszolt az email</br>-re…"
 );
+
+INSERT INTO jokes(category, full)
+VALUES
+(
+5, "A kisgyerek kérdi az apját: </br>- Apu, én hogyan jöttem a világra? Az apa belekezd: </br>- Az úgy volt, hogy anyád és én egy chat szobában ismerkedtünk meg. Ezután találkoztunk egy internet kávézó mosdójában, ahol feltöltést kezdeményeztem anyád szerverére. Utána vettük észre, hogy anyád nem használt tűzfalat, így megtörtént a baj: kilenc hónap múlva letöltődött a vírus. Hát ez vagy te."
+);
+
+
