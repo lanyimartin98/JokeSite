@@ -117,3 +117,15 @@ p {
   padding: 10px 10px 10px 10px;
   background-color: #e3b23c;
 }
+.centerbox{
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+}
+.textblock{
+  width:30vw;
+  height: 20vh;
+}

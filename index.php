@@ -48,7 +48,7 @@ require_once('./backend/config.php');
 	getRandomJoke()
 	?>
 	</div>
-	<div>
+	<div class="centerbox">
 		<?php
 			require_once('./backend/routing.php');
 			?>

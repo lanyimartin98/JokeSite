@@ -9,7 +9,7 @@
 <table>
 <tr><td>Vicc szövege:</td></tr>
 <tr>
-<td><input name="joke" type="text" required></td>
+<td><input name="joke" type="text" class="textblock" required></td>
 </tr>
 <tr><td>Vicc kategóriája:</td></tr>
 <tr>
