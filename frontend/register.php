@@ -13,7 +13,7 @@
             
          ?>
 <form method="POST">
-<table class="table table-striped">
+<table class="jokebody">
   	<tr>
   	  <td><label>Felhasználónév:</label></td>
   	  <td><input type="text" name="username" value=""></td>
@@ -27,11 +27,11 @@
   	  <td><input type="password" name="password_2"></td>
 	</tr>
   	<tr>
-  	 <td colspan=2> <button class="btn btn-primary" type="submit" class="btn" name="reg">Regisztráció</button></td>
+  	 <td colspan=2> <button type="submit" class="btn" name="reg">Regisztráció</button></td>
 	</tr>
 	</table>
   	<p>
-  	<a href="/jokessite/JokeSite/?route=login">Bejelentkezés</a>
+  	<a class="button button1" href="/jokessite/JokeSite/?route=login">Bejelentkezés</a>
 	  </p>
 	  
   </form>

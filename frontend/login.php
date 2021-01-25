@@ -25,7 +25,7 @@
             
          ?>
 <form  method = "POST">
-<table class="table table-striped">
+<table class="jokebody">
   
   <tbody>
     <tr>
@@ -37,11 +37,11 @@
     <td><input name = "password" type = "password" placeholder = "" pattern = ".{5,}" required></td>
     </tr>
     <tr>
-    <td colspan=2><button class="btn btn-primary" type = "submit" class = "submit" name = "login">Belépés</button></td>
+    <td colspan=2><button type = "submit" class = "submit" name = "login">Belépés</button></td>
     </tr>
   </tbody>
 </table>
     </form>
     <p>
-  	  <a href="/jokessite/JokeSite?route=register">Regisztráció</a>
+  	  <a class="button button1" href="/jokessite/JokeSite?route=register">Regisztráció</a>
   	</p>

@@ -6,7 +6,7 @@
     }
 ?>
 <form method="POST">
-<table>
+<table class="jokebody">
 <tr><td>Vicc szövege:</td></tr>
 <tr>
 <td><input name="joke" type="text" class="textblock" required></td>

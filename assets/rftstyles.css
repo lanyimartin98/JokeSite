@@ -126,6 +126,9 @@ p {
   
 }
 .textblock{
-  width:30vw;
+  width:99%;
   height: 20vh;
+}
+.jokebody button{
+  color: black;
 }
